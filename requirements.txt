@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+requests
+streamlit==1.52.2
+shap
+matplotlib
+openai
+python-dotenv
+sqlalchemy
+seaborn
+mlflow
+huggingface-hub
+plotly.express
