@@ -6,8 +6,8 @@
 __pycache__/
 *.pyc
 
-# ---- Data ----
-FNOL_DATASET/
+# # ---- Data ----
+# FNOL_DATASET/
 
 # ---- Trained models / artifacts ----
 models/
