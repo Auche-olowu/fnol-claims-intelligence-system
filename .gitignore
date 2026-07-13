@@ -8,6 +8,8 @@ __pycache__/
 
 # # ---- Data ----
 # FNOL_DATASET/
+data/*.csv
+FNOL_DATASET/*.csv
 
 # ---- Trained models / artifacts ----
 models/
@@ -19,3 +21,4 @@ mlruns/
 # ---- Notebooks ----
 *.ipynb
 First Notice of Loss.py
+
